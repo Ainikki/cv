@@ -4,16 +4,17 @@ body {
 
 .laatikko1 {
     position: absolute;
+    padding: 20px;
     width: 200px;
     height: 500px;
     background-color: gray;
-    text-align: center;
+    text-align: left;
     
   }
   
   .laatikko2 {
     position: absolute;
-    left: 250px;
+    left: 260px;
     width: 200px;
     height: 100px;
     background-color: white;
@@ -22,11 +23,20 @@ body {
   
   .laatikko3 {
     position: absolute;
-    left: 250px;
-    top: 150px;
+    left: 260px;
+    top: 120px;
     width: 200px;
     height: 100px;
     background-color: white;
+    text-align: center;
+  }
+  .laatikko4 {
+    position: absolute;
+    left: 260px;
+    top: 240px;
+    width: 200px;
+    height: 300px;
+    
     text-align: center;
   }
 
