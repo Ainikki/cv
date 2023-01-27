@@ -1,0 +1,1 @@
+Tämä cv on mooc.fi Tietokone työvälineenä kurssin "lopputehtävä". jossa olen leikkinyt kaikenlaisilla ominaisuuksilla. Suunnittelun lähtökohtana ei ole ollut itseni ja osaamiseni esittely, joten on vähän hassu sen suhteen. :)
