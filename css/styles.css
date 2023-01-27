@@ -77,8 +77,11 @@ body, html {
     position: absolute;
     left: 20px;
     top: 370px;
-    width: 250px;
+    width: 230px;
     height: 180px;
+    padding-left: 20px;
+    font-size: 95%;
     background-color: rgba(255, 255, 255, 0.1);
+    color: lightgray;
   }
   
