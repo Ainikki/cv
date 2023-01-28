@@ -29,12 +29,12 @@ body, html {
   }
 
   .laatikko1 {
-    position: sticky;
+    position: absolute;
     left: 23%;
     top: 3%;
     padding: 1%;
     width: 53%;
-    height: 90%;
+    height: 100%;
     font-size: 1em;
     background-color: rgba(255, 255, 255, 0.5);
     text-align: left;
