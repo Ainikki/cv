@@ -22,10 +22,9 @@ body, html {
   .pika {
     position: absolute;
     left: 1.5%;
-    top: 60%;
     bottom: 2%;
     width: 19%;
-    height: 38%;
+    height: 30%;
     padding-left: 1%;
     background-color: rgba(255, 255, 255, 0.1);
     color: lightgray;
@@ -67,6 +66,7 @@ body, html {
     height: 20%;
     background-color: rgba(255, 255, 255, 0.1);
     text-align: center;
+    font-size: 1.2em;
   }
   
   
@@ -78,6 +78,7 @@ body, html {
     height: 20%;
     background-color: rgba(255, 255, 255, 0.1);
     text-align: center;
+    font-size: 1.2em;
   }
 
   
@@ -89,6 +90,7 @@ body, html {
     height: 20%;
     background-color: rgba(255, 255, 255, 0.1);
     text-align: center;
+    font-size: 1.2em;
   }
 
   .yhteys {
@@ -99,6 +101,7 @@ body, html {
     height: 20%;
     background-color: rgba(255, 255, 255, 0.1);
     text-align: center;
+    font-size: 1.2em;
   }
 
 
@@ -111,5 +114,6 @@ body, html {
     height: 90%;
     background-color: rgba(255, 255, 255, 0.5);
     text-align: center;
+    font-size: 1.2em;
 
   }
