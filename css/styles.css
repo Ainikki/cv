@@ -29,15 +29,16 @@ body, html {
     padding-left: 1%;
     background-color: rgba(255, 255, 255, 0.1);
     color: lightgray;
-    display: flex; 
+    display: block; 
     overflow:auto;
+    font-size: 1.2em;
   
 }
 
-  .pika span {
+  /* .pika span {
     align-self: flex-end;
 
-  }
+  } */
 
   .esittely {
     position: absolute;
@@ -47,10 +48,13 @@ body, html {
     padding: 1%;
     width: 53%;
     height: auto;
-    /* max-height: 89%; */
+    max-height: 89%;
     min-height: 91%;
     background-color: rgba(255, 255, 255, 0.5);
     text-align: left;
+    display: block; 
+    overflow:auto;
+    font-size: 1.2em;
 
 }
 
