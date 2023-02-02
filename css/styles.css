@@ -21,20 +21,22 @@ body, html {
   
   .pika {
     position: absolute;
-    display: flex;
     left: 1.5%;
     top: 60%;
     bottom: 2%;
     width: 19%;
-    height: auto;
+    height: 38%;
     padding-left: 1%;
-    text-size-adjust: auto;
     background-color: rgba(255, 255, 255, 0.1);
     color: lightgray;
-  }
+    display: block; 
+    overflow:auto;
+  
+}
 
   .pika span {
     align-self: flex-end;
+
   }
 
   .esittely {
