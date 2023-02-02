@@ -22,7 +22,7 @@ body, html {
   .pika {
     position: absolute;
     left: 1.5%;
-    bottom: 3%;
+    bottom: 2%;
     width: 19%;
     height: auto;
     padding-left: 1%;
@@ -40,7 +40,7 @@ body, html {
     width: 53%;
     height: auto;
     /* max-height: 89%; */
-    /* min-height: 87%; */
+    min-height: 91%;
     background-color: rgba(255, 255, 255, 0.5);
     text-align: left;
 
